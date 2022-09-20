@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primaryFont: ;
+    --white:#FFFFFF;
+    --whiteBackground:#FCFCFC;
+    --darkGray:#707070;
+    --greenDesafiante:#168991;
+    --yellow:#FAD047;
+    --blueTitle:#1A2284;
+    --blueContent:#234E67;
+}
