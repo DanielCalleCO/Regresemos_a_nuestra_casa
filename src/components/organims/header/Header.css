@@ -1,0 +1,41 @@
+.headerHome {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  min-width: 320px;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  background-color: var(--white);
+  padding: 15px 0;
+}
+.logoGeneracionDesHeader {
+  width: 30px;
+  min-width: 30px;
+  max-width: 55px;
+  margin-left: 10px;
+}
+.sesionButtonHeader {
+  display: flex;
+  margin-right: 10px;
+}
+.sesionButtonHeader .btnHeaderSesion {
+  justify-content: space-between;
+  border-radius: 30px;
+  border: none;
+  width: 90px;
+  height: 20px;
+  font-size: 10px;
+  margin-left: 5px;
+}
+.sesionButtonHeader .inicioSesion {
+  background-color: var(--white);
+  color: var(--greenDesafiante);
+  font-weight: bold;
+}
+.sesionButtonHeader .crearCuenta {
+  background-color: var(--greenDesafiante);
+  color: var(--white);
+  font-weight: bold;
+}
