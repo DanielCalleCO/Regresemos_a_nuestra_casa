@@ -1,0 +1,45 @@
+#carouselTest {
+    height: 100vh;
+}
+.carouselItem{
+    background-color: var(--yellow);
+    height: 100%;
+}
+
+.containerIndicatorButtons {
+    position: absolute;
+    bottom: 20%;
+}
+
+button.indicatorButtons {
+    width: 30px;
+    border-radius: 0;
+    margin-left:10px ;
+    opacity: 0.7;
+    position: relative;
+    z-index: 100;
+}
+
+button.activeIndicatorButtons {
+    width: 100px;
+    opacity: 1;
+}
+
+button.navbuttons {
+    width: 80px;
+    height: 80px;
+    background-color: var(--white);
+    color: var(--greenDesafiante);
+    opacity: 0.9;
+}
+
+button.navbuttons:hover {
+    background-color: var(--white);
+}
+
+.indicatorIcon{
+    width: 100%;
+    color: transparent;
+    background-color: var(--white);
+    height: 15px;
+}
