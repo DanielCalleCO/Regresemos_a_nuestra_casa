@@ -31,7 +31,6 @@ export default function Example(props) {
 }
 
 
-
 function HorizontalLineIcon(props) {
   return <div className="indicatorIcon">.</div>;
 }
