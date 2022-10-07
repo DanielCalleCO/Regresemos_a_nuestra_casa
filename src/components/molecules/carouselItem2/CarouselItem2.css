@@ -1,0 +1,49 @@
+
+
+.section-two{
+    width: 100%;
+    height: 100vh;
+    background-color: var(--yellow);
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+div h1{
+    font-size: 42px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: var(--white);
+    align-content: center;
+}
+div p{
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--white);
+}
+
+.div-one{
+    position: absolute;
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    width: 350px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.img{
+       margin: 0 auto;
+    width: 500px;
+    height: 300px;
+  
+}
+
+.div-two{
+    position: absolute;
+    margin: auto;
+    align-content: flex-end;
+    width: 350px;
+    margin-top: 20px;
+    margin-left: 68vw;
+   
+}
