@@ -1,3 +1,4 @@
+import { Link, Link  as RouterLink} from 'react-router-dom'
 import "./Header.css"
 
 export default function Header() {
@@ -5,8 +6,8 @@ export default function Header() {
         <header className="headerHome">
             <img src="https://i.ibb.co/0sXKWB8/Logo11.png" alt="logo generacion desafiante" className="logoGeneracionDesHeader"/>
             <div className="sesionButtonHeader">
-                <button className="btnHeaderSesion inicioSesion" > INICIAR SESION</button>
-                <button className="btnHeaderSesion crearCuenta" > CREAR CUENTA</button>
+                <Link className="btnHeaderSesion inicioSesion" component={RouterLink}  to='/login'> INICIAR SESION</Link>
+                <Link className="btnHeaderSesion crearCuenta" to='/register' > CREAR CUENTA</Link>
             </div>
         </header>
     )
