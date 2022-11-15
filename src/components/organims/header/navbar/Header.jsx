@@ -1,7 +1,7 @@
 import { Link, Link  as RouterLink} from 'react-router-dom'
 import "./Header.css"
 
-export default function Header() {
+export const Header = () =>{
     return(
         <header className="headerHome">
             <img src="https://i.ibb.co/0sXKWB8/Logo11.png" alt="logo generacion desafiante" className="logoGeneracionDesHeader"/>

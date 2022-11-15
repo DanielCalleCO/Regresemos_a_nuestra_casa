@@ -1,0 +1,36 @@
+.content-center{
+
+    width: 520px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: normal normal 600 25px/31px Montserrat;
+
+}
+
+.container-center{
+    width: 320px;
+    background-color: #fff;
+    color: aqua;
+}
+
+.tema{
+    color: #2B394A;
+    text-align: left;
+    opacity: 1;
+    
+}
+
+.container-centar-title{
+    /* text-align: left; */
+    color: #072A3E;
+    margin-top: 30px;
+    /* opacity: 1; */
+}
+
+.description-contents p, span{
+
+    color: #0F5765;
+    font-size: 18px;
+   margin-top: 20px;
+}

@@ -1,0 +1,78 @@
+.content{
+    width: calc(100% - 450px);
+    margin-left: 100px;
+    /* display: flex; */
+    /* background-color: red; */
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.content-welcome{
+    width: 700px;
+    height: 150px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 50px #0000000B;
+    border-radius: 25px;
+    opacity: 1;
+    display: flex;
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    justify-content: space-between;
+}
+.welcome{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.title-welcome{
+    color: #1A2284;
+    font-weight: bold;
+    font-size: 40px;
+}
+.text-welcome{
+    color: #2D3B4D;
+    font-size: 20px;
+    /* width: 300px; */
+}
+.img-welcome{
+    width: 489px;
+    height: 275px;
+    /* UI Properties */
+    /* background-image: transparent url('https://i.imgur.com/nfQ90IZ.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+    align-items: flex-end;
+   margin-top: -80px;
+   margin-left: 300px;
+    position: absolute;
+}
+.continue-course{
+    margin-left: 40px;
+}
+.continue-course h2{
+    color: #273546;
+}
+.course-video{
+    width: 226px;
+    height: 150px;
+    margin-top: 10px;
+    background-color: #FAD047;
+    box-shadow: 0px 3px 50px #0000000B;
+    border-radius: 25px;
+    opacity: 1;
+}
+.means{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.means-video{
+    width: 226px;
+    height: 150px;
+    margin-top: 10px;
+    background-color: #273546;
+    box-shadow: 0px 3px 50px #0000000B;
+    border-radius: 25px;
+    opacity: 1;
+}
+.means{
+    color: #273546;
+}

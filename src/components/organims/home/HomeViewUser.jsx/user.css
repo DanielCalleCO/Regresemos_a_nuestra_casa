@@ -1,0 +1,20 @@
+.menuLateral{
+    position: relative;
+}
+.containerTwo{
+    /* width: 80%; */
+    height: 100vh;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: flex-end;
+    align-content: flex-end;
+    position: absolute;
+    margin-left: 100px;
+
+}
+
+.parrafo{
+    color: black;
+}

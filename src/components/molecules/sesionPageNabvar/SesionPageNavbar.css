@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.container{
+ 
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(
+        0deg,
+        rgba(41, 56, 75, 0.5),
+        rgba(41, 56, 75, 0.5)
+    
+    ),url('https://i.imgur.com/giBenIE.png');
+    background-repeat: no-repeat;
+}
+
+.background{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* display: block; */
+    justify-content: center;
+    align-items: center;
+
+}
+.title_Form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content:center ;
+    color: white;
+}
+.form_input{
+    display: block;
+
+    /* margin-bottom: 2rem; */
+    padding: 0.5rem 0.5rem;
+    border-radius: 8px;
+    width: 400px;
+    height: 40px;
+    border: 0;
+    outline: 1px solid rgba(97, 211, 195, 1);
+    background-color:transparent;
+    color: white;
+    font-size: 14px;
+}
+
+.form_label{
+    position: absolute;
+    top: 28px;
+    left: 2rem;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: .5s;
+    /* background: white; */
+    /* padding: 0.5rem; */
+}
+
+.form_box{
+    position: relative;
+    padding: 1rem;
+}
+
+.form_input:focus+.form_label{
+    transform: translateY(-1.9rem);
+    
+    font-size: 15px;
+    color: rgba(97, 211, 195, 0.9);
+}
+
+.form_input:not(:placeholder-shown)+.form_label{
+   
+    transform: translateY(-2.5rem);
+    transition: .5s;
+    font-size: 15px;
+
+}
+.olvide{
+    text-decoration: none;
+    color: var(--white);
+    font-weight: bold;
+    margin-top: 10px;
+}
+.ingresar{
+    text-decoration: none;
+
+    margin-top: 20px;
+    border-radius: 9px ;
+    background-color: var(  --greenDesafiante);
+    color: var(--white);
+    padding: 8px;
+    width: 150px;
+    /* margin: 0 auto; */
+}
+.ingresar_span{
+    margin-left: 25px;
+    
+}
