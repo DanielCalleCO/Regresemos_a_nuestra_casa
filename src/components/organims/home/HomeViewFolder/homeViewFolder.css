@@ -1,0 +1,10 @@
+.content-folder{
+    display: flex;
+   
+}
+.pa{
+    background-color: red;
+    width: 60%;
+    display: flex;
+    margin-left: 100px;
+}

@@ -1,0 +1,90 @@
+
+
+.contentRigh{
+    width: 550px;
+    height: 100vh;
+    background-color: #61D3C3 ;
+    opacity: 1;
+    font-family: 'Montserrat', sans-serif;
+
+    
+}
+.content-right{
+    width: 400px;
+    margin: 0 auto;
+}
+.content-cita{
+    margin-top: 120px;
+    margin-bottom: 40px;
+    /* background-color: red; */
+    color: #fff;
+    font-size: 30px;
+}
+
+.cita-biblica{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.content-cita-two{
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: 0px 3px 20px #00000029;
+    margin-top: 60px;
+}
+.content-cita-two-text{
+    color: #234E67;
+    padding: 25px;
+    font-size: 20px;
+    opacity: 1;
+}
+.cita-biblica-two{
+    color: #234E67;
+    opacity: 0.36;
+    font-size: 20px;
+}
+.content-memo{
+    background-color: #2B394A;
+    box-shadow: 0px 3px 20px #00000029;
+    border-radius: 25px;
+    opacity: 1;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 20px;
+    gap: 5px;
+    margin-top: 120px;
+
+}
+
+.f-one{
+    font-size: 20px;
+    font-weight: bold;
+    color: #FCFCFC;
+}
+.f-one-paragraf{
+    font-size: 20px;
+    color: #FCFCFC;
+}
+.f-two{
+    display: flex;
+    flex-direction: column;
+    color: #FCFCFC;
+
+    justify-content: flex-end
+}
+
+.paragraf{
+    font-size: 15px;
+    flex-direction: column;
+}
+.f-three{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon-play{
+    color: #fff;
+   font-size: 60px;
+   margin: 0 auto;
+}
+

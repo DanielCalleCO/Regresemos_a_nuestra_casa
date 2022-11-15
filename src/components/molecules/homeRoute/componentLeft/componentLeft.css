@@ -1,0 +1,9 @@
+.content-video{
+    /* margin-left: 70px; */
+    background-color:#61D3C3;
+    width: 200px;
+    height: 100vh;
+    position: relative;
+    z-index: -10;
+   
+}
