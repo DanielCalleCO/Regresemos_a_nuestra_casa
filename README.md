@@ -18,10 +18,10 @@ En fin, lo haremos cortito: somos un grupo de chicos que descubrimos la profundi
 
 Este contenido es totalmente gratuito, tratamos de difundir la palabra del Señor a los cuatro ángulos de la tierra. Tomamos la palabra que decía Pablo en su Carta a Gálatas “El que es enseñado en la palabra haga participe de toda cosa buena al que lo instruye”. 
 
-Si deseas apoyar nuestro trabajo, [visita nuestra página] (https://www.generaciondesafiante.com/donaciones)
+Si deseas apoyar nuestro trabajo, [visita nuestra página](https://www.generaciondesafiante.com/donaciones)
 
 ## Contacto
 
-Si deseas ponerte en contacto con nosotros, [dejanos un mensaje] (https://chat.whatsapp.com/El0odapVs7L29LkXVzm6lB)
+Si deseas ponerte en contacto con nosotros, [dejanos un mensaje](https://chat.whatsapp.com/El0odapVs7L29LkXVzm6lB)
 
 #Generación desafiante || 2022
