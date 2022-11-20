@@ -1,12 +1,12 @@
 # ¡REGRESEMOS A NUESTRA CASA!
-# Generación desafiante
+**Generación desafiante**
 
 Regresemos a nuestra casa, es un proyecto internacional único en su estilo, liderado por Generación desafinte, con el que pretendemos marcar el camino de regreso al lugar del cual nunca debimos apartarnos, los brazos de nuestro pastor.
 
-## Contenido
-- [Se parte][1]
+**Contenido**
+- ## Se-parte
 
-## [1]:Se parte
+## Se parte
 Si deseas ser parte, visita nuesta página [Generación desafiante](https://www.generaciondesafiante.com/)
 
 ## Generación Desafiante - Objetivo
