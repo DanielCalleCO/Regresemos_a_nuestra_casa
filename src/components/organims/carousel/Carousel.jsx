@@ -2,7 +2,7 @@ import React from "react";
 import Carousel from "react-material-ui-carousel";
 import { Button } from "@mui/material";
 
-import "./Carousel.css";
+// import "./Carousel.css";
 import CarouselItem1 from "../../molecules/carouselItem1/CarouselItem1";
 import CarouselItem2 from "../../molecules/carouselItem2/CarouselItem2";
 import CarouselItem3 from "../../molecules/carouselItem3/CarouselItem3";
