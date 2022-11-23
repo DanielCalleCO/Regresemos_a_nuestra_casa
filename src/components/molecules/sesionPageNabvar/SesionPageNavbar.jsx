@@ -11,7 +11,7 @@ export const LoginPageNavbar = () => {
       <div className='container'>
           <form action="" className='background'>
             
-              <h2  className='title_Form'><span>¡Bienvenido al</span> <span>Recorrido de la fé!</span> </h2>
+              <h2  className='title_Form' ><span>¡Bienvenid@ al</span> <span>Recorrido de la fé!</span> </h2>
             
             <div className="form_box">
             <input id="email" name="email" type="text" required placeholder=' ' className='form_input'/>
@@ -30,7 +30,7 @@ export const LoginPageNavbar = () => {
               </div>
              <Link className='olvide'>Olvidé mi contraseña</Link>
              
-              <Link className='ingresar' to='/homeview'> <span  className='ingresar_span'>INGRESAR</span> </Link>
+              <Link className='ingresar-form' to='/homeview'> <span  className='ingresar_span'>INGRESAR</span> </Link>
           </form>
       </div>
     </>
