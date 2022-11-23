@@ -14,14 +14,15 @@
 
 .section-img-two{
     margin-left: 22%;
-    width: 1000px;
+    width: 1300px;
     height: 1000px;
     align-self: flex-end;
+    position: absolute;
 }
 .text{
     
     position: absolute;
-    margin: 400px 0px 0px 350px;
+    margin: 400px 0px 0px 300px;
     display: flex;
    flex-direction: column;
     width: 500px;
