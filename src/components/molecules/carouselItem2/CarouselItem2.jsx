@@ -17,7 +17,7 @@ export default function CarouselItem2() {
                 <div className="div-two div-container-text">
                     {/* <span> <FavoriteBorderIcon/> </span> */}
                     <h1>CONÉCTATE CON TU FE</h1>
-                    <p>Si tú no conoces a tu pareja ¿como sabes que la estás amandocorrectamente? lo mismo pasa con nuestro Dios! Amemoslo como Él desea</p>
+                    <p>Si tú no conoces a tu pareja ¿como sabes que la estás amandocorrectamente? ¡lo mismo pasa con nuestro Dios! Amemoslo como Él desea</p>
                 </div>
             </div>
         

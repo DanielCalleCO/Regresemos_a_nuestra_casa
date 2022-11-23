@@ -1,18 +1,11 @@
 import React, { useEffect, useRef } from 'react'
-// import img1 from '../../src/img/1.jpg'
-// import img2 from '../../src/img/2.jpg'
-// import img3 from '../../src/img/3.jpg'
-// import img4 from '../../src/img/4.jpg'
 import "./Carousel.css";
 import CarouselItem1 from "../../molecules/carouselItem1/CarouselItem1";
 import CarouselItem2 from "../../molecules/carouselItem2/CarouselItem2";
 import CarouselItem3 from "../../molecules/carouselItem3/CarouselItem3";
 import ArrowBackIosIcon from '@mui/icons-material/ArrowBackIos';
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
-// import { ReactComponent as FlechaIzquierda} from '../img/iconmonstr-angel-left-thin.svg'
-// import { ReactComponent as FlechaDerecha } from '../img/iconmonstr-angel-right-thin.svg'
 
-// import styled from 'styled-components'
 import './Slideshow.css'
 
 
@@ -75,21 +68,12 @@ const Slideshow = () => {
     }
 
     useEffect(() => {
-    //   const intervalo = setInterval(()=> {
-    //     siguiente()
-    //   },2000)
+  
         intervalSlideshow.current = setInterval(() => {
                 siguiente()
         }, 8000);
-      //* eliminamos los intervalos
-    //   slideshow.current.addEventListener('mouseenter',()=>{
-    //     clearInterval(intervalSlideshow.current)
-    //   })
-    //   slideshow.current.addEventListener('mouseleave',()=>{
-    //     intervalSlideshow.current = setInterval(() => {
-    //         siguiente()
-    //     }, 8000);
-    //   })
+     
+   
     }, [])
     
 

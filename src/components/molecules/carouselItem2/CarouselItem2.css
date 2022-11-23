@@ -27,7 +27,6 @@
     height: 100vh;
     display: flex;
     justify-content: space-around;
-    /* margin: 20px; */
     position: absolute;
     top:0;
     align-items: center;
@@ -42,10 +41,7 @@
     align-items: center;
     
 }
-/* .span-spacing{
-    width: 800px;
 
-} */
 div h1{
     font-size: 42px;
     font-family: 'Montserrat', sans-serif;
@@ -73,17 +69,3 @@ div p{
     
    
 
-/* .img{
-    margin: 0 auto;
-    width: 1200px;
-    height: 700px;
-
-  
-}
-
-.div-two{
-    
-    margin: auto;
-    align-content: flex-end;
-    width: 350px;
-    margin-top: 20px; */

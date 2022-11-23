@@ -1,20 +1,14 @@
 import { Bookmark, Face, Favorite, Folder, Home, Logout } from '@mui/icons-material'
 import React from 'react'
 import { Link } from 'react-router-dom'
-
-
-
-// import { MenuHomeView } from '../../molecules/homeView/menuLateral/MenuHomeView'
 import './sibarHome.css'
 
-// import { Link } from 'react-router-dom'
-// import {FaceIcon} from '@mui/icons-material';
-export const SibarHome = () => {
 
+export const SibarHome = () => {
 
   return (
     <>
-      {/* <MenuHomeView/> */}
+     
         <div className="menu">
           
            <Link to='/user' > <Face className='faceIcon icon' />  </Link> 

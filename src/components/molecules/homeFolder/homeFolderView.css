@@ -1,5 +1,4 @@
 .content-folder-means{
-    /* background-color: red; */
     width: 60%;
     display: flex;
     margin-left: 100px;
@@ -11,14 +10,12 @@
 }
 .content-means{
     width: 700px;
-    /* background-color: aqua; */
     height: 70vh;
     margin-top: 10px;
 }
 .means-folder{
     width: 100px;
     height: 200px;
-    /* background-color: red; */
     margin: 0;
     margin-top: 20px;
 }
